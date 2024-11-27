@@ -116,6 +116,8 @@ Multiplexing adalah mekanisme yang memungkinkan beberapa sinyal atau aliran data
    - Socket adalah kombinasi dari IP address dan port number TCP atau UDP
    - Aplikasi membuat socket saat berkomunikasi dengan komputer lain
    - IP address menentukan komputer tujuan, dan port menentukan aplikasi yang digunakan
+     ![image](https://github.com/user-attachments/assets/f455124c-2db7-472d-b2cd-9a8f464d8465)
+
 
 
 
