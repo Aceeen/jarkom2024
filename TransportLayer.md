@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41f16b9a-9eb0-4bf0-b43f-664621a6d4cf)# TRANSPORT LAYER
+# TRANSPORT LAYER
 
 [Fungsi Transport Layer](#fungsi-transport-layer) <br />
 [Segmentasi](#segmentasi) <br />
